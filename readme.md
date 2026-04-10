@@ -45,6 +45,9 @@ git clone https://github.com/manichinniah06/JobPortal.git
 
 ## 📸 Screenshots
 
+![ContactPage](https://github.com/user-attachments/assets/4925a9e4-0c8d-4b17-bff5-c36c6eb2d012)
+
+
 ---
 
 ## 🎯 Future Improvements
